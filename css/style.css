@@ -1,0 +1,320 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+header{
+	width: 100%;
+	float: left;
+	background-color: #63B7E3;
+	border: 2px solid red;
+	border-radius: 12px;
+	position: fixed;
+}
+ 
+ 
+.container{
+	width: 1140px;
+	margin: 0 auto;
+}
+
+.phn{
+width: 30%;
+float: left;
+}
+.mail{
+	width: 30%;
+	float: left;
+}
+.social{
+	width: 40%;
+	float: left;
+	font-size: 25px;
+  text-align: center;
+}
+.main menu{
+	width: 100%;
+	float: left;
+	padding-top: 20px;
+}
+.logo {
+	width: 30%;
+	float: left;
+	padding-top: 20px;
+}
+.menu{
+	width: 70%;
+	float: right;
+	padding-top: 20px;
+
+}
+.menu nav ul li{
+	list-style-type: none;
+	display: inline;
+	padding-right: 25px;
+
+}
+
+.menu nav ul li a{
+	text-decoration: none;
+	color: black;
+}
+.three{
+	width: 100%;
+	float: left;
+	background-image: url(../img/slide2.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 550px;
+}
+.THREE{
+	padding-top: 200px;
+}
+.THREE h1{
+	color: #0385CB;
+	font-weight: bold;
+	font-size: 50px;
+}
+.THREE p{
+	color: pink;
+}
+.THREE button{
+	background-color: #0385CB;
+	color: white;
+	font-weight: bold;
+	font-size: 18px;
+	padding: 5px 25px;
+	cursor: pointer;
+}
+.HERO{
+	width: 100%;
+	float: left;
+	color: #0385CB;
+	text-align:center;
+}
+.hrone{
+	width: 20%;
+    padding-top: 15px;
+    padding-left: 430px;
+    padding-bottom: 5px;
+}
+.hrtwo {width: 10%;
+padding-left: 490px;
+padding-bottom: 15px;
+
+}
+ .hand{
+	 width: 100%;
+    background-image: url(../img/slide1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 650px;
+}
+.consult{
+	color: white;
+    text-align: center;
+    padding-top: 250px;
+    font-size: 35px;
+    font-weight: bold;
+} 
+.btn{
+	background-color: blue;
+	color: white;
+	font width: bold;
+	font-size: 20px;
+	padding: 8px 20px;
+	margin-top:190px;
+	margin-left: 170px;
+	cursor: pointer;
+
+}
+.teammates{
+	background color: : white;
+	overflow: hidden;
+}
+.teammatesinfo{
+	width: 100%;
+	float: left;
+	margin-bottom: 50px;
+}
+.teammatesinfo div{
+	height: 350px;
+}
+
+.teammatesinfo div b{
+	color: #2387BD;
+	font-weight: bold;
+	font-size: 25px;
+	padding-left: 40px;
+	float: left;
+}
+.teammatesinfo-one{
+	 width: 20%;
+    float: left;
+    background-color: white;
+    margin-top: 50px;
+    margin-right: 15px;
+}
+
+.teammatesinfo-two{
+	 width: 20%;
+    float: left;
+    background-color: white;
+    margin-top: 50px;
+    margin-right: 15px;
+}
+
+.teammatesinfo-three{
+	 width: 20%;
+    float: left;
+    background-color: white;
+    margin-top: 50px;
+    margin-right: 15px;
+}
+
+.teammatesinfo-four{
+	 width: 20%;
+    float: left;
+    background-color: white;
+    margin-top: 50px;
+    margin-right: 15px;
+}
+
+.srtopicinfometion{
+	width: 100%;
+	float:left;
+	margin: 50px;
+}
+.srtopicinfometion div{
+	 height: 280px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.srtopicinfometion i{
+	font-size: 35px;
+	padding-left: 15px;
+
+}
+.srtopicinfometion div b{
+	color: #2387BD;
+	font-weight: bold;
+	display: inline;
+	font-size: 25px;
+padding-left: 10px}
+
+}
+.srtopicinfometion div p{
+	padding: 18px 20px;
+   font-size: 16px;
+}
+.srtopicinfometion-one{
+	width: 20%;
+    float: left;
+    background-color: white;
+    margin-top: 50px;
+    margin-right: 15px;
+    border: solid;
+}
+.srtopicinfometion-two{
+	width: 20%;
+    float: left;
+    background-color: white;
+    margin-top: 50px;
+    margin-right: 15px;
+    border: solid;
+}
+.srtopicinfometion-three{
+	width: 20%;
+    float: left;
+    background-color: white;
+    margin-top: 50px;
+    margin-right: 15px;
+    border: solid;
+}
+.srtopicinfometion-four{
+	width: 20%;
+    float: left;
+    background-color: white;
+    margin-top: 50px;
+    margin-right: 15px;
+    border: solid;
+}
+.client{
+padding-top: 90px;
+color: white;
+width: 100%;
+float: left;
+height: 600px;
+background-image: url(../img/slide2.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+}
+.clientsey h1{
+padding-left: 90px;
+font-size: 30px;
+font-weight: bold;
+}
+
+.clientreviw{
+width: 40%;
+text-align: center;
+font-size: 18px;
+}
+.clientreviw img{
+margin-top: 25px;
+margin-left: 150px;
+border-radius: 60px;
+}
+.about-one{
+	width: 100%;
+    float: left;
+    margin-top: 20px;
+    text-align: center;
+}
+.Contacttwo{
+	 width: 100%;
+    float: left;
+    background-color: #1A4876;
+    color: white;
+}
+.Frist-one{
+	width: 40%;
+	float: left;
+	margin-top: 50px;
+	margin-right: 25px;
+}
+.frist span{
+	font-size: 25px;
+}
+.second{
+	width: 50%;
+	float: left;
+	margin-top: 25px;
+}
+.one{
+margin: 10px;
+padding: 5px 20px;
+}
+.two{
+margin: 10px;
+padding: 5px 20px;
+}
+.threen{
+margin: 10px;
+padding: 5px 20px;
+
+}
+.four{
+	margin: 10px;
+padding: 5px 20px;
+}
+.five{
+	margin: 10px;
+padding: 15px 130px;
+
+}
+.button{
+	margin: 10px;
+padding: 5px 10px;
+box-sizing: border-box;
+}
